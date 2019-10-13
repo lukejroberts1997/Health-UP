@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">v1</string>
+    <string-array name="weightval">
+        <item>kg</item>
+        <item>lb</item>
+    </string-array>
+    <string-array name="heightval">
+        <item>cm</item>
+        <item>inches</item>
+    </string-array>
+    <string name="texttochange"></string>
+    <string name="changetext"></string>
+</resources>

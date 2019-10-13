@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240672682344",
+    "firebase_url": "https://helathup.firebaseio.com",
+    "project_id": "helathup",
+    "storage_bucket": "helathup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240672682344:android:6f9ce169545772b2",
+        "android_client_info": {
+          "package_name": "com.example.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240672682344-18e0hrl10o5d70ulnobrhl9tp36ikgga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.v1",
+            "certificate_hash": "432b62a79a67075b6fec149b9ddb2291d93875d0"
+          }
+        },
+        {
+          "client_id": "240672682344-mb0a2ebgf5j8ph3d9el1tejf26u2evcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbhG09L8nP6QvJKkjloc8mBwvcr40YckQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240672682344-mb0a2ebgf5j8ph3d9el1tejf26u2evcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
